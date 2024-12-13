@@ -10,7 +10,7 @@ To install `cpc`, run the following commands:
 sudo apt update
 sudo apt install xclip
 git clone https://github.com/gakutasu/cpc.git
-echo 'source $(pwd)/cpc/cpc.sh' >> ~/.bashrc
+echo "source $(pwd)/cpc/cpc.sh" >> ~/.bashrc
 source ~/.bashrc
 ```
 
